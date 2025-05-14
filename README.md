@@ -6,6 +6,8 @@ This project aims to analyze customer purchase behavior — specifically, the pu
 **Key Business Question:**
 🧍‍♀️💰 Do women spend more on Black Friday than men?
 
+**Project here : ** https://drive.google.com/file/d/1ncusn_XVeObVxc0gj5-F43-RfDV5YQlT/view?usp=sharing
+
 🧭 **Outline**
 
 📌 - Exploratory Data Analysis (EDA)
