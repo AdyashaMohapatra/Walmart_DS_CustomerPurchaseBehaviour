@@ -1,4 +1,4 @@
-🛒 Walmart | Black Friday Purchase Behavior Analysis 💳🧾
+**🛒 Walmart | Black Friday Purchase Behavior Analysis 💳🧾**
 
 🎯 Objective
 This project aims to analyze customer purchase behavior — specifically, the purchase amount — in relation to customer demographics and other factors during Walmart’s iconic Black Friday sales event.
